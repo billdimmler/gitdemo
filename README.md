@@ -1,2 +1,2 @@
 # gitdemo
-quci demo repo
+quick demo repo for syncing between different PCs
