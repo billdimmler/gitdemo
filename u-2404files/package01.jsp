@@ -1,2 +1,1 @@
 Sally Wally
-Poppy Puppy
